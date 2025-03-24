@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Run allocation_algorithm.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/allocation_algorithm.py",
+            "console": "integratedTerminal",
+            "args": []
+        }
+    ]
+}
